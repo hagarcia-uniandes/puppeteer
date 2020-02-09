@@ -1,4 +1,4 @@
-# puppeteer
+# puppeteer-jest
 
 Se realizan pruebas con jest-puppeter:
 1. Campos Vacios
